@@ -6,7 +6,7 @@
 
 // Typing Effect
 var typed = new Typed('#wrd', {
-    strings: ['Python Program','C Program', 'C++ Program', 'Java Program', 'Full-stack developer'],
+    strings: ['ZEROX MD WA BOT','AUTU STATUS READ', '24/7 ONLINE ', 'Java Program', 'Full-stack developer'],
     typeSpeed: 100,
     loop: true
 });
